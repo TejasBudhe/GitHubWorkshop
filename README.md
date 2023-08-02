@@ -1,5 +1,5 @@
 # GitHubWorkshop
-This is repository to be used in SE Git and GitHub workshop
+This is the repository that is to be used in SE Git and GitHub Workshop
 
 1> Fork this repo into your account
 
